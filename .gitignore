@@ -1,2 +1,4 @@
 /*.o
 /NaiveNQueens.c
+*/.ipynb_checkpoints/*
+*/__pycache__/*
