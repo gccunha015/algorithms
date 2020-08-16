@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "random": "c",
+        "sstream": "c",
+        "chrono": "c",
+        "functional": "c"
+    }
+}

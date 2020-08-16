@@ -1,0 +1,1 @@
+int gera_numero_aleatorio(int limite);

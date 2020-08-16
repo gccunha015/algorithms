@@ -1,4 +1,4 @@
-/*.o
-/NaiveNQueens.c
-*/.ipynb_checkpoints/*
-*/__pycache__/*
+*.o
+*.ipynb_checkpoints
+*__pycache__
+tower-of-hanoi
